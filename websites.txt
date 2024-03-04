@@ -1,0 +1,11 @@
+Topic name; Keyword; Website address; Summary; Review; Rating
+Travel;Discover-Joy;https://www.dummydiscoverjoy.com/;Minimal travel tips and guides;Good;1;
+Travel;Explore-Globe;https://www.dummyexploreglobe.com/;Plan your next adventure with detailed travel guides and tips;Excellent;5;
+Technology;Innovate-Tech;https://www.dummyinnovatetech.com/;Basic content, lacking in-depth insights;Average;3;
+College;College-University;https://www.dummycollege.edu/;Limited information available about programs;Below Average;2;
+Finance;About-money;https://www.dummymoneymatters.com/;Explore financial planning tools and advice for better money management;Excellent;5;
+Finance;Money-Matters;https://www.dummymoneymatters.com/;Explore financial planning tools and advice for better money management;Excellent;5;
+Discovery;Discover-Details;https://www.dummydiscoverdetails.com/;Uncover in-depth details and insights;Good;4;
+Travel;Discover-Nature;https://www.dummydiscovernature.com/;Connect with nature through informative travel tips;Excellent;5;
+Technology;Hack-Genius;https://www.dummyhackgenius.com/;Unlock your coding potential with innovative tech hacks;Great;4;
+Health;Wellness-World;https://www.dummywellnessworld.com/;Find valuable information on maintaining a healthy lifestyle;Helpful for health-conscious individuals;4;
